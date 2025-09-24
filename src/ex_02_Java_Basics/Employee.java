@@ -15,7 +15,7 @@ public class Employee {
         System.out.println(job);
         System.out.println(sal);
     }
-    public static void main(String[] args)
+  /*public static void main(String[] args)
     {
         Employee emp1=new Employee();//Object
         emp1.eid=101;
@@ -30,5 +30,5 @@ public class Employee {
         emp2.job="Assistant Manager";
         emp2.sal=50000;
         emp2.display();
-    }
+    }*/
 }
