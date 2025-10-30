@@ -8,7 +8,7 @@ public class SumOfNaturalNumbers {
         int n=scanner.nextInt();
         int S=0;
 
-        for(int i=1;i<n;i++){
+        for(int i=1;i<=n;i++){
             S=S+i;
         }
         System.out.println("The sum is :"+S);
